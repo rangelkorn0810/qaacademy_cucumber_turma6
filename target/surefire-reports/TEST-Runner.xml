@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="14" failures="0" name="Runner" time="6.307" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="18.0.1+10"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\zulu18.30.11-ca-jdk18.0.1-win_x64\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:/Users/Towards Rise/IdeaProjects/qaacademy_cucumber_turma6"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vendor.url" value="http://www.azul.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="test" value="Runner"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Towards Rise\IdeaProjects\qaacademy_cucumber_turma6"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="18.0.1+10"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\TOWARD~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:/ProgramData/chocolatey/lib/maven/apache-maven-3.8.6/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\zulu18.30.11-ca-jdk18.0.1-win_x64\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Towards Rise\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Towards Rise\bin;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files\Java\zulu18.30.11-ca-jdk18.0.1-win_x64\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\dotnet;C:\ProgramData\chocolatey\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6\bin;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Users\Towards Rise\AppData\Local\Microsoft\WindowsApps;C:\Users\Towards Rise\.dotnet\tools;C:\Users\Towards Rise\AppData\Roaming\npm;C:\Users\Towards Rise\AppData\Local\Programs\Hyper\resources\bin;C:\Users\Towards Rise\AppData\Local\Programs\Microsoft VS Code\bin;C:\Allure\allure-2.17.3\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="maven.conf" value="C:/ProgramData/chocolatey/lib/maven/apache-maven-3.8.6/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="62.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:/ProgramData/chocolatey/lib/maven/apache-maven-3.8.6/lib/jansi-native"/>
+    <property name="user.home" value="C:\Users\Towards Rise"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="18"/>
+    <property name="user.name" value="Towards Rise"/>
+    <property name="java.class.path" value="C:/ProgramData/chocolatey/lib/maven/apache-maven-3.8.6/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=Runner test"/>
+    <property name="java.home" value="C:\Program Files\Java\zulu18.30.11-ca-jdk18.0.1-win_x64"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="18.0.1"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="maven.home" value="C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.vendor.url.bug" value="http://www.azul.com/support/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Zulu18.30+11-CA"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="que eu acesso o site Register" time="2.859"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="preencho o campo nome com o valor &quot;Rangel&quot;" time="0.49"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="preencho o campo sobre nome com o valor &quot;Souza&quot;" time="0.204"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="preencho o campo endereço com o valor &quot;Rua Serra da Mantiqueira, 200&quot;" time="0.295"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="preencho o campo e-mail com o valor &quot;rangelsouza1987@yahoo.com.br&quot;" time="0.233"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="preencho o campo telefone com o valor &quot;11985729050&quot;" time="0.19"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="clico no radio bottom Male" time="0.168"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="clico no check box o valor Movies" time="0.1"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="seleciono no campo skills o valor &quot;Java&quot;" time="0.172"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="seleciono no campo Select Country o valor Japan" time="0.26"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="seleciono no campo year o valor &quot;1987&quot;" time="0.15"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="seleciono no campo month o valor &quot;October&quot;" time="0.149"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="seleciono no campo day o valor &quot;8&quot;" time="0.158"/>
+  <testcase classname="Validar cadastro com sucesso no site Register" name="Validar cadastro com sucesso no site Register" time="0.879"/>
+</testsuite>
